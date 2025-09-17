@@ -1,4 +1,4 @@
-package com.Systeme_de_Gestion_des_Comptes_Bancaires;
+package com.system;
 import java.util.Scanner;
 
 public class Compte {
@@ -13,6 +13,7 @@ public class Compte {
 	    	  System.out.println("Erreur : vous devez entrer un nombre entier !");
 	          scanner.close();
 	      }
+
 	}
 	public static String menu(){
 	    return "voila les action possible :\n"
@@ -23,6 +24,4 @@ public class Compte {
 	        + "5-Consulter le solde du compte\n"
 	        + "6-Consulter la liste des opérations effectuées sur un compte\n";
 	}
-
-
 }
