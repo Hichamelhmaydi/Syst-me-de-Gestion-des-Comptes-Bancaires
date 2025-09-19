@@ -123,7 +123,9 @@ Avant d’exécuter le projet, assurez-vous d’avoir :
 ---
 
 \## 📂 Captures d'écran
-![Capture d’écran 2025-09-19 20:13:11](https://github.com/Hichamelhmaydi/Syst-me-de-Gestion-des-Comptes-Bancaires/blob/0a4243f34e557901158d24ef1e2938d14d68ec1e/Capture%20d%E2%80%99%C3%A9cran%202025-09-19%20201311.png?raw=true)
+
+<img width="1439" height="817" alt="Capture d’écran 2025-09-19 20:13:11" 
+src="https://github.com/Hichamelhmaydi/Syst-me-de-Gestion-des-Comptes-Bancaires/blob/0a4243f34e557901158d24ef1e2938d14d68ec1e/Capture%20d%E2%80%99%C3%A9cran%202025-09-19%20201311.png?raw=true" />
 
 ![Capture 2025-09-19 20:13:11](https://github.com/Hichamelhmaydi/Syst-me-de-Gestion-des-Comptes-Bancaires/blob/0a4243f34e557901158d24ef1e2938d14d68ec1e/Capture%20d%E2%80%99%C3%A9cran%202025-09-19%20201311.png?raw=true)
 
